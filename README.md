@@ -44,3 +44,7 @@ The environment requirements are listed as follows:
 ### Depth Fusion
 PointMVSNet generates per-view depth map. We need to apply depth fusion ```tools/depthfusion.py``` to get the complete point cloud. Please refer to [MVSNet](https://github.com/YoYo000/MVSNet) for more details.
     
+
+### Acknowledgments
+
+We borrow some code from PointMVSNet and DH-RMVSNet. We thank the authors for releasing the source code.
